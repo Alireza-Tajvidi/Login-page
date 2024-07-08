@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|c:\\users\\parsa\\desktop\\morya\\login page\\login page\\login page\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|solutionrelative:login page\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|c:\\users\\parsa\\desktop\\morya\\login page\\login page\\login page\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|solutionrelative:login page\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|c:\\users\\parsa\\desktop\\morya\\login page\\login page\\login page\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|solutionrelative:login page\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|c:\\users\\parsa\\desktop\\morya\\login page\\login page\\login page\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6AD1D33-F2EC-4347-B4B3-D91823682FF0}|Login page\\Login page.csproj|solutionrelative:login page\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,13 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form2.cs",
+              "RelativeDocumentMoniker": "Login page\\Form2.cs",
+              "ToolTip": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form2.cs",
+              "RelativeToolTip": "Login page\\Form2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:23:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form1.cs",
+              "RelativeDocumentMoniker": "Login page\\Form1.cs",
+              "ToolTip": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form1.cs",
+              "RelativeToolTip": "Login page\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:20:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form1.cs",
               "RelativeDocumentMoniker": "Login page\\Form1.cs",
-              "ToolTip": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form1.cs [Design]*",
-              "RelativeToolTip": "Login page\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form1.cs [Design]",
+              "RelativeToolTip": "Login page\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T09:35:39.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form2.cs",
+              "RelativeDocumentMoniker": "Login page\\Form2.cs",
+              "ToolTip": "C:\\Users\\parsa\\Desktop\\Morya\\Login page\\Login page\\Login page\\Form2.cs [Design]",
+              "RelativeToolTip": "Login page\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:55:12.246Z",
               "EditorCaption": " [Design]"
             }
           ]

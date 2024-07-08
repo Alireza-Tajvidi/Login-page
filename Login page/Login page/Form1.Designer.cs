@@ -29,62 +29,63 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.lbKullanici = new System.Windows.Forms.Label();
-            this.picbxLogo = new System.Windows.Forms.PictureBox();
-            this.picbxKullanici = new System.Windows.Forms.PictureBox();
-            this.panKullanici = new System.Windows.Forms.Panel();
+            this.lbKullaniciadi = new System.Windows.Forms.Label();
+            this.picLogo = new System.Windows.Forms.PictureBox();
+            this.picKullaniciadi = new System.Windows.Forms.PictureBox();
+            this.panKullaniciadi = new System.Windows.Forms.Panel();
             this.lbSifre = new System.Windows.Forms.Label();
-            this.picbxSifre = new System.Windows.Forms.PictureBox();
+            this.picSifre = new System.Windows.Forms.PictureBox();
             this.panSifre = new System.Windows.Forms.Panel();
             this.btnGiris = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.picSifregoz = new System.Windows.Forms.PictureBox();
+            this.lbSifreunuttum = new System.Windows.Forms.Label();
             this.txtSifre = new System.Windows.Forms.TextBox();
-            this.txtKullanici = new System.Windows.Forms.TextBox();
-            ((System.ComponentModel.ISupportInitialize)(this.picbxLogo)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picbxKullanici)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picbxSifre)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.txtKullaniciadi = new System.Windows.Forms.TextBox();
+            this.lbUyeol = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picKullaniciadi)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSifre)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSifregoz)).BeginInit();
             this.SuspendLayout();
             // 
-            // lbKullanici
+            // lbKullaniciadi
             // 
-            this.lbKullanici.AutoSize = true;
-            this.lbKullanici.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbKullanici.Location = new System.Drawing.Point(108, 300);
-            this.lbKullanici.Name = "lbKullanici";
-            this.lbKullanici.Size = new System.Drawing.Size(101, 21);
-            this.lbKullanici.TabIndex = 0;
-            this.lbKullanici.Text = "Kullanıcı Adı:";
-            this.lbKullanici.UseMnemonic = false;
+            this.lbKullaniciadi.AutoSize = true;
+            this.lbKullaniciadi.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbKullaniciadi.Location = new System.Drawing.Point(108, 300);
+            this.lbKullaniciadi.Name = "lbKullaniciadi";
+            this.lbKullaniciadi.Size = new System.Drawing.Size(101, 21);
+            this.lbKullaniciadi.TabIndex = 0;
+            this.lbKullaniciadi.Text = "Kullanıcı Adı:";
+            this.lbKullaniciadi.UseMnemonic = false;
             // 
-            // picbxLogo
+            // picLogo
             // 
-            this.picbxLogo.Image = ((System.Drawing.Image)(resources.GetObject("picbxLogo.Image")));
-            this.picbxLogo.Location = new System.Drawing.Point(225, 74);
-            this.picbxLogo.Name = "picbxLogo";
-            this.picbxLogo.Size = new System.Drawing.Size(151, 154);
-            this.picbxLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picbxLogo.TabIndex = 1;
-            this.picbxLogo.TabStop = false;
+            this.picLogo.Image = ((System.Drawing.Image)(resources.GetObject("picLogo.Image")));
+            this.picLogo.Location = new System.Drawing.Point(225, 74);
+            this.picLogo.Name = "picLogo";
+            this.picLogo.Size = new System.Drawing.Size(151, 154);
+            this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picLogo.TabIndex = 1;
+            this.picLogo.TabStop = false;
             // 
-            // picbxKullanici
+            // picKullaniciadi
             // 
-            this.picbxKullanici.Image = ((System.Drawing.Image)(resources.GetObject("picbxKullanici.Image")));
-            this.picbxKullanici.Location = new System.Drawing.Point(68, 276);
-            this.picbxKullanici.Name = "picbxKullanici";
-            this.picbxKullanici.Size = new System.Drawing.Size(45, 45);
-            this.picbxKullanici.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picbxKullanici.TabIndex = 1;
-            this.picbxKullanici.TabStop = false;
+            this.picKullaniciadi.Image = ((System.Drawing.Image)(resources.GetObject("picKullaniciadi.Image")));
+            this.picKullaniciadi.Location = new System.Drawing.Point(68, 276);
+            this.picKullaniciadi.Name = "picKullaniciadi";
+            this.picKullaniciadi.Size = new System.Drawing.Size(45, 45);
+            this.picKullaniciadi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picKullaniciadi.TabIndex = 1;
+            this.picKullaniciadi.TabStop = false;
             // 
-            // panKullanici
+            // panKullaniciadi
             // 
-            this.panKullanici.BackColor = System.Drawing.Color.SlateGray;
-            this.panKullanici.Location = new System.Drawing.Point(68, 327);
-            this.panKullanici.Name = "panKullanici";
-            this.panKullanici.Size = new System.Drawing.Size(448, 3);
-            this.panKullanici.TabIndex = 2;
+            this.panKullaniciadi.BackColor = System.Drawing.Color.SlateGray;
+            this.panKullaniciadi.Location = new System.Drawing.Point(68, 327);
+            this.panKullaniciadi.Name = "panKullaniciadi";
+            this.panKullaniciadi.Size = new System.Drawing.Size(448, 3);
+            this.panKullaniciadi.TabIndex = 2;
             // 
             // lbSifre
             // 
@@ -97,15 +98,15 @@
             this.lbSifre.Text = "Şifre:";
             this.lbSifre.UseMnemonic = false;
             // 
-            // picbxSifre
+            // picSifre
             // 
-            this.picbxSifre.Image = ((System.Drawing.Image)(resources.GetObject("picbxSifre.Image")));
-            this.picbxSifre.Location = new System.Drawing.Point(68, 390);
-            this.picbxSifre.Name = "picbxSifre";
-            this.picbxSifre.Size = new System.Drawing.Size(45, 45);
-            this.picbxSifre.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picbxSifre.TabIndex = 1;
-            this.picbxSifre.TabStop = false;
+            this.picSifre.Image = ((System.Drawing.Image)(resources.GetObject("picSifre.Image")));
+            this.picSifre.Location = new System.Drawing.Point(68, 390);
+            this.picSifre.Name = "picSifre";
+            this.picSifre.Size = new System.Drawing.Size(45, 45);
+            this.picSifre.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSifre.TabIndex = 1;
+            this.picSifre.TabStop = false;
             // 
             // panSifre
             // 
@@ -127,27 +128,27 @@
             this.btnGiris.Text = "Giriş";
             this.btnGiris.UseVisualStyleBackColor = false;
             // 
-            // pictureBox1
+            // picSifregoz
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(485, 410);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(31, 25);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
+            this.picSifregoz.Image = ((System.Drawing.Image)(resources.GetObject("picSifregoz.Image")));
+            this.picSifregoz.Location = new System.Drawing.Point(485, 410);
+            this.picSifregoz.Name = "picSifregoz";
+            this.picSifregoz.Size = new System.Drawing.Size(31, 25);
+            this.picSifregoz.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSifregoz.TabIndex = 1;
+            this.picSifregoz.TabStop = false;
             // 
-            // label1
+            // lbSifreunuttum
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Gray;
-            this.label1.Location = new System.Drawing.Point(253, 546);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Şifremi unuttum";
-            this.label1.UseMnemonic = false;
+            this.lbSifreunuttum.AutoSize = true;
+            this.lbSifreunuttum.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbSifreunuttum.ForeColor = System.Drawing.Color.Gray;
+            this.lbSifreunuttum.Location = new System.Drawing.Point(253, 546);
+            this.lbSifreunuttum.Name = "lbSifreunuttum";
+            this.lbSifreunuttum.Size = new System.Drawing.Size(99, 17);
+            this.lbSifreunuttum.TabIndex = 0;
+            this.lbSifreunuttum.Text = "Şifremi unuttum";
+            this.lbSifreunuttum.UseMnemonic = false;
             // 
             // txtSifre
             // 
@@ -160,15 +161,28 @@
             this.txtSifre.Size = new System.Drawing.Size(315, 25);
             this.txtSifre.TabIndex = 4;
             // 
-            // txtKullanici
+            // txtKullaniciadi
             // 
-            this.txtKullanici.BackColor = System.Drawing.Color.Gainsboro;
-            this.txtKullanici.Font = new System.Drawing.Font("Javanese Text", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtKullanici.Location = new System.Drawing.Point(215, 294);
-            this.txtKullanici.Multiline = true;
-            this.txtKullanici.Name = "txtKullanici";
-            this.txtKullanici.Size = new System.Drawing.Size(289, 25);
-            this.txtKullanici.TabIndex = 4;
+            this.txtKullaniciadi.BackColor = System.Drawing.Color.Gainsboro;
+            this.txtKullaniciadi.Font = new System.Drawing.Font("Javanese Text", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtKullaniciadi.Location = new System.Drawing.Point(215, 294);
+            this.txtKullaniciadi.Multiline = true;
+            this.txtKullaniciadi.Name = "txtKullaniciadi";
+            this.txtKullaniciadi.Size = new System.Drawing.Size(289, 25);
+            this.txtKullaniciadi.TabIndex = 4;
+            // 
+            // lbUyeol
+            // 
+            this.lbUyeol.AutoSize = true;
+            this.lbUyeol.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbUyeol.ForeColor = System.Drawing.Color.Gray;
+            this.lbUyeol.Location = new System.Drawing.Point(277, 572);
+            this.lbUyeol.Name = "lbUyeol";
+            this.lbUyeol.Size = new System.Drawing.Size(45, 17);
+            this.lbUyeol.TabIndex = 0;
+            this.lbUyeol.Text = "Üye ol";
+            this.lbUyeol.UseMnemonic = false;
+            this.lbUyeol.Click += new System.EventHandler(this.lbUyeol_Click);
             // 
             // Form1
             // 
@@ -176,24 +190,25 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(594, 749);
-            this.Controls.Add(this.txtKullanici);
+            this.Controls.Add(this.txtKullaniciadi);
             this.Controls.Add(this.txtSifre);
             this.Controls.Add(this.btnGiris);
             this.Controls.Add(this.panSifre);
-            this.Controls.Add(this.panKullanici);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.picbxSifre);
-            this.Controls.Add(this.picbxKullanici);
+            this.Controls.Add(this.panKullaniciadi);
+            this.Controls.Add(this.picSifregoz);
+            this.Controls.Add(this.picSifre);
+            this.Controls.Add(this.picKullaniciadi);
             this.Controls.Add(this.lbSifre);
-            this.Controls.Add(this.picbxLogo);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.lbKullanici);
+            this.Controls.Add(this.picLogo);
+            this.Controls.Add(this.lbUyeol);
+            this.Controls.Add(this.lbSifreunuttum);
+            this.Controls.Add(this.lbKullaniciadi);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.picbxLogo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picbxKullanici)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picbxSifre)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picKullaniciadi)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSifre)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSifregoz)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -201,18 +216,19 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lbKullanici;
-        private System.Windows.Forms.PictureBox picbxLogo;
-        private System.Windows.Forms.PictureBox picbxKullanici;
-        private System.Windows.Forms.Panel panKullanici;
+        private System.Windows.Forms.Label lbKullaniciadi;
+        private System.Windows.Forms.PictureBox picLogo;
+        private System.Windows.Forms.PictureBox picKullaniciadi;
+        private System.Windows.Forms.Panel panKullaniciadi;
         private System.Windows.Forms.Label lbSifre;
-        private System.Windows.Forms.PictureBox picbxSifre;
+        private System.Windows.Forms.PictureBox picSifre;
         private System.Windows.Forms.Panel panSifre;
         private System.Windows.Forms.Button btnGiris;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox picSifregoz;
+        private System.Windows.Forms.Label lbSifreunuttum;
         private System.Windows.Forms.TextBox txtSifre;
-        private System.Windows.Forms.TextBox txtKullanici;
+        private System.Windows.Forms.TextBox txtKullaniciadi;
+        private System.Windows.Forms.Label lbUyeol;
     }
 }
 

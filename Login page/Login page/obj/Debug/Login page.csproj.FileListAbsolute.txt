@@ -8,3 +8,4 @@ C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\bin\Debug\Login pa
 C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\bin\Debug\Login page.pdb
 C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.exe
 C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.pdb
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login_page.Form2.resources
