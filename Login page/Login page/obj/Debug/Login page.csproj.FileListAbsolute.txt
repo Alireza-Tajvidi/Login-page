@@ -1,0 +1,10 @@
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.csproj.AssemblyReference.cache
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login_page.Form1.resources
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login_page.Properties.Resources.resources
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\bin\Debug\Login page.exe.config
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\bin\Debug\Login page.exe
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\bin\Debug\Login page.pdb
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.exe
+C:\Users\parsa\Desktop\Morya\Login page\Login page\Login page\obj\Debug\Login page.pdb
